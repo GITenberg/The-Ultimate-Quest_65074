@@ -1,11 +1,16 @@
 _repo: The-Ultimate-Quest_65074
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65074-h/images/cover.jpg
 creator:
   author:
     agent_name: Annas, Hal
     gutenberg_agent_id: '53170'
     url: http://www.gutenberg.org/2009/agents/53170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65074#The-Ultimate-Quest
 gutenberg_issued: '2021-04-13'
 gutenberg_type: Text
 identifiers:
